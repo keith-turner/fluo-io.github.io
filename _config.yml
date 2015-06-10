@@ -1,6 +1,6 @@
 # Site settings
 title: Fluo
-baseurl: "" # the subpath of site
+baseurl: "/fluo-io.github.io/" # the subpath of site
 url: "http://fluo.io" # the base hostname & protocol for your site
 
 # Build settings
